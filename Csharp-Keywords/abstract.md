@@ -1,5 +1,6 @@
 # Abstract
 implementation من دون  class تسمح لك بعمل 
+
 اخر يرث منه class في  implementation و يكون الـ 
 
 ```  
