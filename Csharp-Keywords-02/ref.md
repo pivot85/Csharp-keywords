@@ -3,6 +3,7 @@
 تستخدم لتمرير و استرجاع القيم من و الى الدالة . باختصار اي تغيير على القيمه سيحدث تغيير على المتغير
 <div>
 
+<div dir=ltl>
 ```
 void Method(ref int refArgument)
 {
@@ -14,3 +15,4 @@ Method(ref number);
 Console.WriteLine(number);
 // Output: 45
 ```
+<div>
