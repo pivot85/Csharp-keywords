@@ -5,5 +5,13 @@
 <br>
 
 ```
-code
+class student{
+
+}
+
+static void main(){
+
+student st= new student();
+// st is the object
+}
 ```
